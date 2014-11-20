@@ -6,4 +6,4 @@
 
 ## FunnyCode
 
-* [Happy Birthday](https://github.com/xavieryao/Happy-Birthday)
+* Happy Birthday: [https://github.com/xavieryao/Happy-Birthday](https://github.com/xavieryao/Happy-Birthday)
