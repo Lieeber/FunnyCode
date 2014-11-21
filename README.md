@@ -32,6 +32,7 @@
 * [AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
 * [Header2ActionBar](https://github.com/AChep/Header2ActionBar)
 * [GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
+* [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout)
 
 
 ====================================================================
@@ -49,8 +50,11 @@
 
 * [cow](https://github.com/cyfdecyf/cow)
 * [gotalk](https://github.com/nybuxtsui/gowalk)
+* [XWall](https://github.com/lunarlove/XWall)
 * [gogotester](https://github.com/azzvx/gogotester)
 * [gscan](https://github.com/yinqiwen/gscan)
+
+* [Find Available Google IPs](https://github.com/scymen/find_available_google_IPs)
 
 * [Huhamhire Hosts](https://github.com/huhamhire/huhamhire-hosts)
 
