@@ -4,9 +4,11 @@
 * [Android Dev Tools](https://github.com/inferjay/AndroidDevTools)
 * [Android Training Course](https://github.com/kesenhoo/android-training-course-in-chinese)
 * [Android Open Project Analysis](https://github.com/android-cn/android-open-project-analysis)
+* [Android Open Project](https://github.com/Trinea/android-open-project)
 * [Android Jobs](https://github.com/android-cn/android-jobs)
 
 * [V2HOT](https://github.com/djyde/V2HOT)
+* [V2EX API](https://github.com/djyde/V2EX-API)
 
 * [Sweet Alert Dialog](https://github.com/pedant/sweet-alert-dialog)
 * [Material Design Icons](https://github.com/google/material-design-icons)
@@ -24,6 +26,12 @@
 * [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar)
 * [WizardPager](https://github.com/TechFreak/WizardPager)
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+* [Cards UI](https://github.com/afollestad/Cards-UI)
+* [AndroidAnnotations](https://github.com/excilys/androidannotations)
+* [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+* [AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
+* [Header2ActionBar](https://github.com/AChep/Header2ActionBar)
+* [GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
 
 
 ====================================================================
@@ -43,6 +51,8 @@
 * [gotalk](https://github.com/nybuxtsui/gowalk)
 * [gogotester](https://github.com/azzvx/gogotester)
 * [gscan](https://github.com/yinqiwen/gscan)
+
+* [Huhamhire Hosts](https://github.com/huhamhire/huhamhire-hosts)
 
 
 ====================================================================
