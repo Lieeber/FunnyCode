@@ -33,6 +33,21 @@
 * [Header2ActionBar](https://github.com/AChep/Header2ActionBar)
 * [GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
 * [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout)
+* [ion](https://github.com/koush/ion)
+
+
+* [https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
+
+
+https://github.com/yixia/VitamioBundle
+https://github.com/FilipPudak/ProgressPieView
+https://github.com/castorflex/FlipImageView
+https://github.com/amlcurran/ShowcaseView
+https://github.com/JakeWharton/DiskLruCache
+https://github.com/nhaarman/ListViewAnimations
+https://github.com/jjoe64/GraphView
+https://github.com/dommerq/SuperListview
+
 
 
 ====================================================================
