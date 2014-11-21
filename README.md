@@ -40,98 +40,78 @@
 * [Crouton](https://github.com/keyboardsurfer/Crouton)
 * [Android Process Button](https://github.com/dmytrodanylyk/android-process-button)
 * [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
-* []()
-* []()
-* []()
+* [SwipeListView](https://github.com/47deg/android-swipelistview)
+* [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+* [Android Async Http](https://github.com/loopj/android-async-http)
+* [AndroidQuery](https://github.com/androidquery/androidquery)
+* [Android Validator](https://github.com/throrin19/Android-Validator)
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
+* [GuideBackgroundColorAnimation](https://github.com/TaurusXi/GuideBackgroundColorAnimation)
+* [RangeBar](https://github.com/edmodo/range-bar)
+* [Cropper](https://github.com/edmodo/cropper)
+* [AndroidCircularSeekBar](https://github.com/RaghavSood/AndroidCircularSeekBar)
+* [Android Edittext Validator](https://github.com/vekexasia/android-edittext-validator)
+* [MarkdownView](https://github.com/falnatsheh/MarkdownView)
+* [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
+* [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
+* [PagingListView](https://github.com/nicolasjafelle/PagingListView)
+* [Android-AppMsg](https://github.com/johnkil/Android-AppMsg)
+* [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)
+* [SuperToasts](https://github.com/JohnPersano/SuperToasts)
+* [Android Stackblur](https://github.com/kikoso/android-stackblur)
+* [Android Coverflow](https://github.com/Polidea/android-coverflow)
+* [Android ColorPickerPreference](https://github.com/attenzione/android-ColorPickerPreference)
+* [PagedDragDropGrid](https://github.com/mrKlar/PagedDragDropGrid)
+* [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary)
+* [JazzyListView](https://github.com/twotoasters/JazzyListView)
+* [Titanic](https://github.com/RomainPiel/Titanic)
+* [PinnedHeaderListView](https://github.com/JimiSmith/PinnedHeaderListView)
+* [HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
+* [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+* [SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
+* [Avatar Android](https://github.com/Pedroafa/avatar-android)
+* [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+* [RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
+* [ListViewCellInsertion](https://github.com/benigumocom/ListViewCellInsertion)
+* [Inscription](https://github.com/MartinvanZ/Inscription)
+* [Android WizardPager](https://github.com/romannurik/Android-WizardPager)
+* [Pinned Section Listview](https://github.com/beworker/pinned-section-listview)
+* [IconicDroid](https://github.com/atermenji/IconicDroid)
+* [Android BitmapCache](https://github.com/chrisbanes/Android-BitmapCache)
+* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+* [Android Viewflow](https://github.com/pakerfeldt/android-viewflow)
+* [QuickReturnListView](https://github.com/LarsWerkman/QuickReturnListView)
+* [ArcMenu](https://github.com/daCapricorn/ArcMenu)
+* [Java Multithread Downloader](https://github.com/daimajia/java-multithread-downloader)
+* [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager)
+* [Android Flip](https://github.com/openaphid/android-flip)
+* [Drag Sort Listview](https://github.com/bauerca/drag-sort-listview)
+* [Sugared List Animations](https://github.com/cuub/sugared-list-animations)
+* [Android Markdown Viewer](https://github.com/chalup/android-markdown-viewer)
+* [Android ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+* [Chips Edittext Library](https://github.com/kpbird/chips-edittext-library)
+* [Android Satellite Menu](https://github.com/siyamed/android-satellite-menu)
+* [Android Image Cache](https://github.com/mitmel/Android-Image-Cache)
+* [ChartView](https://github.com/nadavfima/ChartView)
+* [RangeSeekBar](https://github.com/Efor18/RangeSeekBar)
+* [IndexableListView](https://github.com/woozzu/IndexableListView)
+* [Android ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
+* [FFMpeg Android](https://github.com/yixia/FFmpeg-Android)
+* [Android FFMpeg](https://github.com/mconf/android-ffmpeg)
+* [Android FFMpeg](https://github.com/guardianproject/android-ffmpeg)
+* [Android FFMpeg x264](https://github.com/halfninja/android-ffmpeg-x264)
+* [FFMpeg](https://github.com/havlenapetr/FFMpeg)
 
+### Android客户端
 
-
-
-
-
-
-
-
-
-
-
-https://github.com/guardianproject/android-ffmpeg
-https://github.com/47deg/android-swipelistview
-https://github.com/umano/AndroidSlidingUpPanel
-https://github.com/loopj/android-async-http
-https://github.com/androidquery/androidquery
-https://github.com/throrin19/Android-Validator
-https://github.com/chrisbanes/PhotoView
-https://github.com/TaurusXi/GuideBackgroundColorAnimation
-https://github.com/edmodo/range-bar
-https://github.com/edmodo/cropper
-https://github.com/RaghavSood/AndroidCircularSeekBar
-https://github.com/vekexasia/android-edittext-validator
-https://github.com/falnatsheh/MarkdownView
-https://github.com/Todd-Davies/ProgressWheel
-https://github.com/ManuelPeinado/FadingActionBar
-https://github.com/nicolasjafelle/PagingListView
-https://github.com/johnkil/Android-AppMsg
-https://github.com/chrisbanes/ActionBar-PullToRefresh
-https://github.com/JohnPersano/SuperToasts
-https://github.com/kikoso/android-stackblur
-https://github.com/Polidea/android-coverflow
-https://github.com/attenzione/android-ColorPickerPreference
-https://github.com/mrKlar/PagedDragDropGrid
-https://github.com/Androguide/HoloGraphLibrary
-https://github.com/LarsWerkman/HoloColorPicker
-https://github.com/JimiSmith/PinnedHeaderListView
-https://github.com/RomainPiel/Titanic
-https://github.com/twotoasters/JazzyListView
-https://github.com/jfeinstein10/SlidingMenu
-https://github.com/tjerkw/Android-SlideExpandableListView
-https://github.com/Pedroafa/avatar-android
-https://github.com/astuetz/PagerSlidingTabStrip
-https://github.com/ManuelPeinado/RefreshActionItem
-https://github.com/benigumocom/ListViewCellInsertion
-https://github.com/MartinvanZ/Inscription
-https://github.com/romannurik/Android-WizardPager
-https://github.com/beworker/pinned-section-listview
-https://github.com/atermenji/IconicDroid
-https://github.com/chrisbanes/Android-BitmapCache
-https://github.com/JakeWharton/ActionBarSherlock
-https://github.com/halfninja/android-ffmpeg-x264
-https://github.com/pakerfeldt/android-viewflow
-https://github.com/LarsWerkman/QuickReturnListView
-https://github.com/daCapricorn/ArcMenu
-https://github.com/daimajia/java-multithread-downloader
-https://github.com/jfeinstein10/JazzyViewPager
-https://github.com/openaphid/android-flip
-https://github.com/bauerca/drag-sort-listview
-https://github.com/cuub/sugared-list-animations
-https://github.com/yixia/FFmpeg-Android
-https://github.com/chalup/android-markdown-viewer
-https://github.com/JakeWharton/Android-ViewPagerIndicator
-https://github.com/kpbird/chips-edittext-library
-https://github.com/siyamed/android-satellite-menu
-https://github.com/mitmel/Android-Image-Cache
-https://github.com/havlenapetr/FFMpeg
-https://github.com/mconf/android-ffmpeg
-https://github.com/sephiroth74/
-https://github.com/nadavfima/ChartView
-https://github.com/Efor18/RangeSeekBar
-https://github.com/woozzu/IndexableListView
-https://github.com/rno/Android-ScrollBarPanel
-
-
-https://github.com/MASAILA/V2EX-Android
-https://github.com/Rano1/TopNews
-https://github.com/qii/weiciyuan
-https://github.com/Splitter/android_packages_apps_apolloMod
-https://github.com/PeterCxy/2048
-https://github.com/kyze8439690/v2ex-daily-android
-* [V2HOT](https://github.com/djyde/V2HOT)
+* [2048](https://github.com/PeterCxy/2048)
+* [weiciyuan](https://github.com/qii/weiciyuan)
+* [TopNews](https://github.com/Rano1/TopNews)
+* [Apollo](https://github.com/Splitter/android_packages_apps_apolloMod)
 * [V2EX API](https://github.com/djyde/V2EX-API)
-* 
-
-
-
-
+* [V2HOT](https://github.com/djyde/V2HOT)
+* [V2EX Daily](https://github.com/kyze8439690/v2ex-daily-android)
+* [V2EX Android](https://github.com/MASAILA/V2EX-Android)
 
 ### Android工具源码集合
 
@@ -139,7 +119,6 @@ https://github.com/kyze8439690/v2ex-daily-android
 * [Android Open Project](https://github.com/Trinea/android-open-project)
 * [Android Training Course](https://github.com/kesenhoo/android-training-course-in-chinese)
 * [Android Dev Tools](https://github.com/inferjay/AndroidDevTools)
-* [Android Jobs](https://github.com/android-cn/android-jobs)
 
 
 ## Web前端
