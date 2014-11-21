@@ -142,16 +142,10 @@ https://github.com/kyze8439690/v2ex-daily-android
 * [Android Jobs](https://github.com/android-cn/android-jobs)
 
 
-====================================================================
-
-
 ## Web前端
 
 * [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design)
 * [Toc](https://github.com/jgallen23/toc)
-
-
-====================================================================
 
 
 ## 翻墙
@@ -160,24 +154,16 @@ https://github.com/kyze8439690/v2ex-daily-android
 * [shadowsocks](https://github.com/clowwindy/shadowsocks)
 * [gotalk](https://github.com/nybuxtsui/gowalk)
 * [cow](https://github.com/cyfdecyf/cow)
-
 * [gogotester](https://github.com/azzvx/gogotester)
 * [gscan](https://github.com/yinqiwen/gscan)
-
-* [Find Available Google IPs](https://github.com/scymen/find_available_google_IPs)
 * [Google IPs](https://github.com/Playkid/Google-IPs)
-
-
-====================================================================
+* [Find Available Google IPs](https://github.com/scymen/find_available_google_IPs)
 
 
 ## FunnyCode
 
 * [Happy Birthday](https://github.com/xavieryao/Happy-Birthday)
 * [Love](https://github.com/hackerzhou/Love)
-
-
-====================================================================
 
 
 ## 其他
