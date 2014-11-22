@@ -96,6 +96,7 @@
 * [RangeSeekBar](https://github.com/Efor18/RangeSeekBar)
 * [IndexableListView](https://github.com/woozzu/IndexableListView)
 * [Android ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
+* [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 * [FFMpeg Android](https://github.com/yixia/FFmpeg-Android)
 * [Android FFMpeg](https://github.com/mconf/android-ffmpeg)
 * [Android FFMpeg](https://github.com/guardianproject/android-ffmpeg)
