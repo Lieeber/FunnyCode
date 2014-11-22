@@ -133,6 +133,7 @@
 * [shadowsocks](https://github.com/clowwindy/shadowsocks)
 * [gotalk](https://github.com/nybuxtsui/gowalk)
 * [cow](https://github.com/cyfdecyf/cow)
+* [fqrouter](https://github.com/fqrouter/fqrouter)
 * [gogotester](https://github.com/azzvx/gogotester)
 * [gscan](https://github.com/yinqiwen/gscan)
 * [Google IPs](https://github.com/Playkid/Google-IPs)
