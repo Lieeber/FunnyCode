@@ -99,6 +99,7 @@
 * [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 * [xUtils](https://github.com/wyouflf/xUtils)
 * [Genius Android](https://github.com/qiujuer/Genius-Android)
+* [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 * [FFMpeg Android](https://github.com/yixia/FFmpeg-Android)
 * [Android FFMpeg](https://github.com/mconf/android-ffmpeg)
 * [Android FFMpeg](https://github.com/guardianproject/android-ffmpeg)
